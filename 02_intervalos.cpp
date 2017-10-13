@@ -2,7 +2,7 @@
 	
 	using namespace std;
 
-	int main(){
+	int main(int argc, char* argv[]){
 
 		auto number( 0 );
 		auto cont  ( 0u );
