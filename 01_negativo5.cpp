@@ -2,7 +2,7 @@
 #define count 5
 using namespace std;
 	
-	int main(){
+	int main(int argc, char* argv[]){
 		auto number ( 0 ); // Recebe o número
 		auto counter ( 0 ); // Contador para armazenar a quantidade de negativos
 		int i;
