@@ -1,7 +1,7 @@
 #include <iostream>
 	
 	using namespace std;
-
+		// test
 		int main(){
 
 			int n, contador = 1, max = 0, min = 0, guardai = 0;
